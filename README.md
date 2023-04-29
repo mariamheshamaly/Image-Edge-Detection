@@ -51,4 +51,6 @@ and bottom right indices of the box).
 - Input: Image and a window size.
 - Output: The image of the variances of the pixels in the original image
 
+![Screenshot (70)](https://user-images.githubusercontent.com/93290914/235318444-e4481228-1fa9-4baf-8154-ac8a3fddfa37.png)
+
 
